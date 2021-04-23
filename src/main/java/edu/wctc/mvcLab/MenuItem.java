@@ -1,4 +1,4 @@
-package edu.wctc.streetfood;
+package edu.wctc.mvcLab;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

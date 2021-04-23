@@ -1,4 +1,4 @@
-package edu.wctc.streetfood;
+package edu.wctc.mvcLab;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.stereotype.Controller;
@@ -18,7 +18,7 @@ public class MenuController {
         ObjectMapper mapper = new ObjectMapper();
 
         try {
-            menuItemArray = mapper.readValue(Paths.get("menuItems.json").toFile(), MenuItem[].class);
+            menuItemArray = mapper.readValue(Paths.get("vacations.json").toFile(), MenuItem[].class);
         } catch (IOException e) {
             e.printStackTrace();
             menuItemArray = new MenuItem[0];

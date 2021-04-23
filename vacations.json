@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Now Onyx Punta Cana, Dominican Republic",
+    "description": "Located on remote, palm-lined Uvero Alto Beach in Punta Cana, Now Onyx offers practically an endless list of amenities providing one of the best values around. There are two infinity pools with swimup bars, a saltwater pool for the kids and complimentary non-motorized sports to enjoy when you aren’t relaxing on the beach. The property includes 20 restaurants and bars, a spa, casino and nightclub. Rooms have balconies or terraces with hot tubs, upgrade to a suite and you may get an ocean view, direct pool access and/or a private plunge pool.",
+    "imageFile": "img/Now-Onyx-Punta-Cana.jpg",
+    "price": 1545
+  },
+  {
+    "id": 2,
+    "name": "Puerta Morelos, Mexico",
+    "description": "Ideal for families with children, the Ocean Coral & Turquesa in Puerto Morelos, Mexico has a children’s pool with built-in chaise lounges complete with air jets so the kids can splash around while parents relax in the water with an exotic drink. Two side-by-side oceanfront resorts, they share a beautiful stretch of beach shaded by palapas that are framed by an azure sea that holds the second largest barrier reef in the world, along with multiple pools, a luxury day spa and an array of restaurants serving international cuisines.",
+    "imageFile": "img/Ocean-Coral-Turquesa-Puerto-Morelos-Mexico.jpg",
+    "price": 961
+  },
+  {
+    "id": 3,
+    "name": "Iberostar Royal Andalus, Spain",
+    "description": "The Iberostar Royal Andalus is spread across a beautiful stretch of shoreline south of Cadiz above the sand dunes of La Barrosa Beach in Spain. It offers more of a boutique-like feel than that of a large resort, with many of the spacious rooms providing ocean views. Enjoy pampering treatments, a sauna and relaxing Turkish bath at the spa as well as teeing off on an outstanding golf course. Relax at the outdoor swimming pools and visit the poolside bar, then choose from multiple dining options serving anything from fresh seafood to Andalusian cuisine.",
+    "imageFile": "img/2-Iberostar-Royal-Andalus-Spain.jpeg",
+    "price": 812
+  },
+  {
+    "id": 4,
+    "name": "Renaissance Curacao, Willemstad, Curacao",
+    "description": "At the Renaissance Curacao, enjoy budget friendly rates right in the heart of colorful historic Willemstad overlooking the Caribbean. It has two gorgeous infinity pools, including a standout oceanside sandy, saltwater pool, an on-site casino, two restaurants (a steakhouse and a buffet-style eatery) and bars. All rooms have flat-screen TVs with international cable channels and most include balconies, some with ocean views. Do keep in mind that the low prices also mean that drinks are excluded from the all-inclusive rates.",
+    "imageFile": "img/Renaissance-Curacao.jpg",
+    "price": 710
+  },
+  {
+    "id": 5,
+    "name": "Sunset at the Palms, Negril, Jamaica",
+    "description": "Sunset at the Palms stands apart from Jamaica’s other popular family-friendly resorts, as it is an adults-only resort with tree house-style cottages that feature private balconies and beautiful surroundings of palm trees, flowers and colorful hummingbirds. While you won’t find a vast pool complex, the more intimate lagoon pool includes a swim-up bar, while the beach awaits just across the street. For great all-inclusive rates without the rowdy vibe of a mega-resort, this property is ideal.",
+    "imageFile": "img/Sunset-at-the-Palms.jpg",
+    "price": 600
+  }
+
+]
